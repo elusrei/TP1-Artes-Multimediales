@@ -1,1 +1,1 @@
-#Trabajando con la obra de una pionera del arte digital, desde una perspectiva ante la situaci{on vertiginosa que vive el arte digital(y el mundo)
+Inspirado en la estética de Vera Molnar y en conceptos que trabajan los textos de Natalie Heinich "La obra mas allá del objeto" y Marshal Mcluhan "El medio es el mensaje", trabajo una imagen generativa que exprese la evolución del ambito del arte y que a pesar de sus cambios, hay cierta prevalencias que permiten seguir interpretandole como la misma, aún.
